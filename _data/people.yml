@@ -55,8 +55,8 @@ ugrad2022_ab:
     bio: Department of Physics, University of Warwick
 
 ugrad2022_mt:
-    display_name: "Starting Oct 2022"
+    display_name: "Marcus Tranter"
     display_letter: "M"
-    webpage: 
+    webpage: "https://www.linkedin.com/in/marcus-tranter/" 
     role: ugrad
     bio: Department of Physics, University of Warwick
