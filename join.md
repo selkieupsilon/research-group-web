@@ -19,6 +19,20 @@ There is some [additional information on Vacation Projects from the department t
     - Funding is available specifically for [students who are from under-represented groups in physics (IoP)](https://www.iop.org/about/support-grants/bell-burnell-fund).
     - While funding is often restricted to students who have "home" status, EU and international students with an outstanding track record can apply to the [Chancellor's International Scholarship](https://warwick.ac.uk/services/dc/schols_fund/scholarships_and_funding/chancellors_int).
 
+### PhD Course Entry requirements
+In the UK, the performance of a student through their undergraduate course is provided as a *classification* of their degree. The usual [classifications](https://warwick.ac.uk/services/aro/dar/quality/categories/examinations/conventions/ug13/) are:
+1. First class honours
+2. Second class upper division (2.1) honours
+3. Second class lower division (2.2) honours
+4. Third class honours
+5. Pass, also sometimes called an ordinary degree (without honours)
+
+In general, we require a Master degree with first class or upper second class honours.
+
+What does this mean if you did not do a UK degree?
+Check the [international qualifications pages](https://warwick.ac.uk/study/international/admissions/entry-requirements).
+
+
 ## Applying for a postdoc
 - We are looking for candidates with experience in either:
     - cell biology, biochemistry, molecular biology, and related fields; or
