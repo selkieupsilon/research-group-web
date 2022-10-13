@@ -33,7 +33,7 @@ mbalasubramanian:
     role: collab
     bio: Centre for Mechanochemical Cell Biology, Warwick Medical School, University of Warwick
 
-phd2019_as:
+phd2022_as:
     display_name: "Starting Oct 2022"
     display_letter: "A"
     webpage: 
@@ -47,16 +47,31 @@ phdzz_you:
     role: grad
     bio: See the "Join" page!
 
-ugrad2022_ab:
-    display_name: "Starting Oct 2022"
+mphys2022_ab:
+    display_name: "Archie Bridgeman (MPhys)"
     display_letter: "A"
     webpage: 
     role: ugrad
     bio: Department of Physics, University of Warwick
 
-ugrad2022_mt:
-    display_name: "Starting Oct 2022"
+mphys2022_mt:
+    display_name: "Marcus Tranter (MPhys)"
     display_letter: "M"
+    webpage: "https://www.linkedin.com/in/marcus-tranter/" 
+    role: ugrad
+    image: #/img/people/marcus.jpeg
+    bio: Department of Physics, University of Warwick
+    
+bsc2022_zs:
+    display_name: "Starting Oct 2022"
+    display_letter: "Z"
+    webpage: 
+    role: ugrad
+    bio: Department of Physics, University of Warwick
+
+bsc2022_dt:
+    display_name: "Starting Oct 2022"
+    display_letter: "D"
     webpage: 
     role: ugrad
     bio: Department of Physics, University of Warwick
