@@ -64,14 +64,14 @@ mphys2022_mt:
     bio: Department of Physics, University of Warwick
     
 bsc2022_zs:
-    display_name: "Starting Oct 2022"
+    display_name: "Zachary Scott (BSc)"
     display_letter: "Z"
     webpage: 
     role: ugrad
     bio: Department of Physics, University of Warwick
 
 bsc2022_dt:
-    display_name: "Starting Oct 2022"
+    display_name: "David Tobias (BSc)"
     display_letter: "D"
     webpage: 
     role: ugrad
