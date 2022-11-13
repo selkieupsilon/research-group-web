@@ -60,7 +60,7 @@ mphys2022_mt:
     display_letter: "M"
     webpage: "https://www.linkedin.com/in/marcus-tranter/" 
     role: ugrad
-    image: #/img/people/marcus.jpeg
+    image: /img/people/marcus.jpg
     bio: Department of Physics, University of Warwick
     
 bsc2022_zs:
