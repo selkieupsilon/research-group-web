@@ -49,30 +49,30 @@ phdzz_you:
     bio: See the "Join" page!
 
 mphys2022_ab:
-    display_name: "Archie Bridgeman (MPhys)"
+    display_name: "Archie Bridgeman (MPhys 2023)"
     display_letter: "A"
-    webpage: 
-    role: ugrad
-    bio: Department of Physics, University of Warwick
+    webpage: "https://www.linkedin.com/in/archie-bridgeman/"
+    role: ugrad-alum
+    bio: "> Consultancy"
 
 mphys2022_mt:
-    display_name: "Marcus Tranter (MPhys)"
+    display_name: "Marcus Tranter (MPhys 2023)"
     display_letter: "M"
     webpage: "https://www.linkedin.com/in/marcus-tranter/" 
-    role: ugrad
+    role: ugrad-alum
     image: /img/people/marcus.jpg
-    bio: Department of Physics, University of Warwick
+    bio: "> Consultancy"
     
 bsc2022_zs:
-    display_name: "Zachary Scott (BSc)"
+    display_name: "Zachary Scott (BSc 2023)"
     display_letter: "Z"
     webpage: 
-    role: ugrad
-    bio: Department of Physics, University of Warwick
+    role: ugrad-alum
+    bio: 
 
 bsc2022_dt:
-    display_name: "David Tobias (BSc)"
+    display_name: "David Tobias (BSc 2023)"
     display_letter: "D"
-    webpage: 
-    role: ugrad
-    bio: Department of Physics, University of Warwick
+    webpage: "https://www.linkedin.com/in/david-tobias-202465248/"
+    role: ugrad-alum
+    bio: "> Actuary"
