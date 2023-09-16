@@ -2,7 +2,7 @@
 layout: post
 #shortnews: true
 title: "Joining the lab with a PhD Scholarship (non-UK students)"
-icon: graduation-cap fa-bounce
+icon: graduation-cap
 displayimage: 
     src: 
     style: #"max-height: 500px;"
