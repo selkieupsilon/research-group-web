@@ -4,4 +4,4 @@ shortnews: true
 icon: star
 ---
 
-Archie and Marcus presented their MPhys project posters today. Well done!
+Archie and Marcus presented their MPhys project posters. Well done!
