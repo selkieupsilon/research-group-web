@@ -41,6 +41,12 @@ phd2022_ananya:
     image: /img/people/ananya.jpg
     bio: Department of Physics, University of Warwick
 
+phd_smalek:
+    display_name: "Sabeeha Malek"
+    webpage: "https://www.researchgate.net/profile/Sabeeha-Malek-2"
+    role: collab
+    bio: Centre for Mechanochemical Cell Biology, Warwick Medical School, University of Warwick
+
 phdzz_you:
     display_name: You?
     display_letter: "?"

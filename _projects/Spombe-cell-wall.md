@@ -6,6 +6,7 @@ description: |
 
 people:
   - ying
+  - mbalasubramanian
   - phd2022_ananya
 
 layout: project

@@ -6,6 +6,8 @@ description: |
 
 people:
   - ying
+  - dkoester
+  - phd_smalek
   - phd2022_ananya
 
 layout: project
